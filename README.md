@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on a couple of project:
-  - 🐲A fantasy RPG videogame called Dracollarium, it's a very personal project that im developing on Unity Engine, where im doing all the 3D assets as well. Hopefully, one day I could dedicate full time to it. You can see more at [Dracollarium](www.instagram.com/project_dracollarium/)
+  - 🐲A fantasy RPG videogame called Dracollarium, it's a very personal project that im developing on Unity Engine, where im doing all the 3D assets as well. Hopefully, one day I could dedicate full time to it. You can see more at [Dracollarium](http://www.instagram.com/project_dracollarium/)
   - 🤖A Discord administrative helper bot, developed on Python. ([Repository](https://github.com/Parsifal308/K4R3N))
   
 - 🤓 I’m currently learning:
@@ -14,8 +14,6 @@
 - 😌 I have basic knowlege of C++, C# and Java.
 
 - 🤔 I’m interested in learning and getting advice from experienced people in the field of software develop.
-
-- 📫 How to reach me: [Personal Email](gyllestrato@gmail.com)
 
 - 💪Other dedications:
   - 🐵Blender: 3D modeler, animator and scultor.
