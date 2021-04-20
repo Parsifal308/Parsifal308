@@ -19,6 +19,7 @@
   - 🐵Blender: 3D modeler, animator and scultor.
   - 🖌Substance Painter.
  
+- 📫 You can contact me at: GylleStrato@Gmail.Com
 
 
 <!--
