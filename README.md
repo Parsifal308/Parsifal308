@@ -16,7 +16,7 @@
 - 🤔 I’m interested in learning and getting advice from experienced people in the field of software develop.
 
 - 💪Other dedications:
-  - 🐵Blender: 3D modeler, animator and scultor.
+  - 🐵Blender: 3D modeler, animator and sculptor.
   - 🖌Substance Painter.
  
 - 📫 You can contact me at: GylleStrato@Gmail.Com
