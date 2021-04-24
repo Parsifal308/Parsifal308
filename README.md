@@ -21,7 +21,7 @@
  
 - 📫 You can contact me at: GylleStrato@Gmail.Com
 
-
+  - [Blender]() - [Unity](http://assets.stickpng.com/thumbs/58482b92cef1014c0b5e4a2d.png) - [Substance Painter]() - 
 <!--
 - **Parsifal308/Parsifal308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🎬
