@@ -11,7 +11,7 @@
   - 🐍Python
   - 📏Software Design Patterns
   
-- 😌 I have basic knowlege of C++, C#, Java, SQL
+- 😌 I have basic knowlege of Java, Unity, SQL, C#, C++
 
 - 🤔 I’m interested in learning and getting advice from experienced people in the field of software develop.
 
