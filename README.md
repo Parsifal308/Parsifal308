@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on a couple of project:
   - 🐲 A fantasy RPG videogame called Dracollarium, it's a very personal project that im developing on Unity Engine, where im doing all the 3D assets as well. Hopefully, one day I could dedicate full time to it. You can see more at [Dracollarium](http://www.instagram.com/project_dracollarium/) || ([Repository](https://github.com/Parsifal308/Project-Dracollarium))
-  - 🤖 A Discord administrative helper bot, developed on Python. ([Repository](https://github.com/Parsifal308/K4R3N))
   - 📒 Java desktop app for gym client management. ([Repository](https://github.com/Parsifal308/Gimnasio_Seven_DesktopApp))
 - 🤓 I’m currently learning:
   - 🐍Python
