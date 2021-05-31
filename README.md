@@ -18,7 +18,7 @@
   - 🐵Blender: 3D modeler, animator and sculptor.
   - 🖌Substance Painter.
  
-- 📫 You can contact me at: GylleStrato@Gmail.Com
+- 📫 You can contact me at: gyllestrato@gmail.Com
 
 <!--
 - **Parsifal308/Parsifal308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
