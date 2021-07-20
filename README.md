@@ -2,6 +2,8 @@
 ### I'm Guillermo Marinero⚓
 ### I'm a Programming student at Mendoza's National Technological University ([UTN FRM](http://www.frm.utn.edu.ar/)), an amateur videogames developer and sometimes an artist.
 
+- 🗨 Native language: Spanish
+- 💬 Other languages: English (intermediate)
 
 - 🔭 I’m currently working on a couple of project:
   - 🐲 A fantasy RPG videogame called Dracollarium, it's a very personal project that im developing on Unity Engine, where im doing all the 3D assets as well. Hopefully, one day I could dedicate full time to it. You can see more at [Dracollarium](http://www.instagram.com/dracollarium/) || ([Repository](https://github.com/Parsifal308/Project-Dracollarium))
@@ -9,8 +11,9 @@
 - 🤓 I’m currently learning:
   - 🎮Unity's shaders core concepts 
   - 📏Software Design Patterns
-  
-- 😌 I have basic knowlege of Java, Unity, SQL, C#, C++
+ 
+- 📚 Intermediate knowledge of Java, Unity Engine, SQL, C#
+- 📖 Basic knowledge of C++, Haskell, Prolog, Python
 
 - 🤔 I’m interested in learning and getting advice from experienced people in the field of software develop.
 
