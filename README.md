@@ -9,8 +9,9 @@
   - 🐲 A fantasy RPG videogame called Dracollarium, it's a very personal project that im developing on Unity Engine, where im doing all the 3D assets as well. Hopefully, one day I could dedicate full time to it. You can see more at [Dracollarium](http://www.instagram.com/dracollarium/) || ([Repository](https://github.com/Parsifal308/Project-Dracollarium))
 
 - 🤓 I’m currently learning:
-  - 🎮Unity's shaders core concepts 
-  - 📏Software Design Patterns
+  - Spring
+  - Rest API
+  - Hibernate
  
 - 📚 Intermediate knowledge of Java, Unity Engine, SQL, C#
 - 📖 Basic knowledge of C++, Haskell, Prolog, Python
