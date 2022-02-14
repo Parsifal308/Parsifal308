@@ -10,7 +10,7 @@
 
 ## 🤓 I’m currently learning:
   - Spring
-  - React
+  - Angular
  
  ## Knowledge
 - 📚 Intermediate Java, Unity Engine, SQL, C#
