@@ -1,6 +1,6 @@
 ## 👋Hello There!
 ### I'm Guillermo Marinero⚓
-### I'm a Programming student at Mendoza's National Technological University ([UTN FRM](http://www.frm.utn.edu.ar/)), an amateur videogames developer and sometimes an artist.
+### I'm a a programmer and an amateur videogames developer and sometimes an artist.
 
 ### 🗨 Native language: Spanish
 ### 💬 Other languages: English (intermediate)
