@@ -9,9 +9,14 @@
 ## 🔭 You can follow me and find out about some of the personal things I work on here:
 ## 👉[Dracollarium](https://www.instagram.com/dracollarium_studio/) 👈
 #
- ## Knowledge
+## Knowledge
 - 📚 Intermediate Java, Unity Engine, SQL, C#
 - 📖 Basic knowledge of C++, Haskell, Prolog, Python, Ursina Engine
+#
+## Experience:
+##   - [Goodbye Dr.Sanchez](https://store.steampowered.com/app/1456000/Goodbye_Dr_Sanchez/).
+##   - Metaverse project (data protected by NDA)
+##   - [Action-adventure game](https://static.wikia.nocookie.net/residentevil/images/0/0f/Greenherb.jpg/revision/latest?cb=20160306193455)(More information soon)
 #
 ## 🤔 I’m interested in learning and getting advice from experienced people in the field of software develop.
 #
