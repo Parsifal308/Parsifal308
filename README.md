@@ -1,7 +1,7 @@
 ## 👋Hello There!
-### I'm Guillermo Marinero, also known as Parsifal⚓
+### I'm Guillermo Marinero, also known as [Parsifal](https://www.instagram.com/parsifal_irl/)
 ### I'm a videogames developer and 3D artist.
-### Im a programmer/3D Artist for Blurred Realities Interactive.
+### Im a programmer/3D Artist for [Blurred Realities Interactive](https://blurred-realities.com/).
 #
 ### 🗨 Native language: Spanish
 ### 💬 Other languages: English (intermediate)
