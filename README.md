@@ -6,8 +6,7 @@
 ### 🗨 Native language: Spanish
 ### 💬 Other languages: English (intermediate)
 #
-## 🔭 You can follow me and find out about some of the personal things I work on here:
-## 👉[Dracollarium](https://www.instagram.com/dracollarium_studio/) 👈
+## 🔭 You can follow me and find out about some of the personal things I work on [here](https://www.instagram.com/dracollarium_studio/).
 #
 ## Knowledge
 - 📚 Intermediate Java, Unity Engine, SQL, C#
