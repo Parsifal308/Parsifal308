@@ -1,13 +1,12 @@
 ## 👋Hello There!
-### I'm Guillermo Marinero⚓
+### I'm Guillermo Marinero, also known as Parsifal⚓
 ### I'm a videogames developer and 3D artist.
+### Im a programmer/3D Artist for Blurred Realities Interactive.
 
 ### 🗨 Native language: Spanish
 ### 💬 Other languages: English (intermediate)
 
-## 🔭 I’m currently working on:
-  - 🐲 A fantasy RPG videogame called Dracollarium, it's a very personal project that im developing on Unity Engine, where im doing all the 3D assets as well. Hopefully, one day I could dedicate full time to it. You can see more at [Dracollarium](http://www.instagram.com/dracollarium/)
-  - Programmer/3D Artist for Blurred Realities Interactive
+## 🔭 You can follow me and find out about some of the personal things I work on here 👉[Dracollarium](https://www.instagram.com/dracollarium_studio/)
 
  ## Knowledge
 - 📚 Intermediate Java, Unity Engine, SQL, C#
