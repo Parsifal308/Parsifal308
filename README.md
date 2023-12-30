@@ -15,7 +15,7 @@
 ## Experience:
 ##   - [Goodbye Dr.Sanchez](https://store.steampowered.com/app/1456000/Goodbye_Dr_Sanchez/).
 ##   - Metaverse game project (info protected by NDA)
-##   - [Juego educativo](https://nianduti.itch.io/mawe)
+##   - [Educational Game](https://nianduti.itch.io/mawe)
 #
 ## 🤔 I’m interested in learning and getting advice from experienced people in the field of software develop.
 #
