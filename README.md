@@ -6,7 +6,7 @@
 ### 🗨 Native language: Spanish
 ### 💬 Other languages: English (intermediate)
 #
-## 🔭 You can follow me and find out about some of the personal things I work on [here](https://www.instagram.com/dracollarium_studio/).
+## 🔭 You can follow me and find out about some of the personal things I work on [here](www.linkedin.com/in/guillermomarinero/).
 #
 ## Knowledge
 - 📚 C#, .NET, C++, ASP.Net, PostgreSQL, MongoDB, Azure
@@ -26,10 +26,3 @@
   - 🖌Substance Painter.
  #
 ## 📫 You can contact me at: gyllestrato@gmail.com
-
-<!--
-- **Parsifal308/Parsifal308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🎬
-- 👯 I’m looking to collaborate on ...
-- 😄 Pronouns: ...
--->
