@@ -15,7 +15,9 @@
 ## Experience:
 ##   - [Goodbye Dr.Sanchez](https://store.steampowered.com/app/1456000/Goodbye_Dr_Sanchez/).
 ##   - Metaverse game project (info protected by NDA)
+##   - Unannounced survival horror game for [Cinnamon Matcha](https://store.steampowered.com/curator/42985600)
 ##   - [Educational Game](https://nianduti.itch.io/mawe)
+##   - [Mobile educational platform](https://webdit.es/blog/noticias-2/gamificacion-para-educacion-y-empresas-2023-2)
 #
 ## 🤔 I’m interested in learning and getting advice from experienced people in the field of software develop.
 #
