@@ -1,7 +1,7 @@
 ## 👋Hello There!
 ### I'm Guillermo Marinero,
 ### A video game developer, I specialize in the design and implementation of mechanics and gameplay. I have experience using Unity Engine and Unreal Engine.
-### I'm currently working for in my own project [X](x.com/Dracollarium) [YoutTube](www.youtube.com/@DracollariumStudio) [Instagram](www.instagram.com/dracollarium_studio/)
+### I'm currently working for in my own project [[X](x.com/Dracollarium)] [[YoutTube](www.youtube.com/@DracollariumStudio)] [[Instagram](www.instagram.com/dracollarium_studio/)]
 #
 ### 🗨 Native language: Spanish
 ### 💬 Other languages: English (intermediate)
